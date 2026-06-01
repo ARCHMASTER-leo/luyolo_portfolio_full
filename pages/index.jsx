@@ -248,7 +248,7 @@ function Nav() {
           ))}
         </div>
         <a
-          href="/Luyolo-Skoma-Junior-Dev-Resume.pdf"
+          href="/Luyolo_Skoma_CV.pdf"
           download
           className="font-mono text-xs px-3 py-1.5 rounded border border-emerald-700/50 text-emerald-400 hover:bg-emerald-600/20 transition-colors"
         >
